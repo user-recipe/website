@@ -6,4 +6,4 @@
 
 ## Dessert recipe
 
-* Purin
+* [Purin](/purin)
