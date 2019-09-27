@@ -1,1 +1,1 @@
-[Home](/index)
+[Home](index)
