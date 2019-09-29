@@ -1,3 +1,3 @@
 [Home](index)
 
-![](purin.png)
+![](purin.jpg)
